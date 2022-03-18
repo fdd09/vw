@@ -1,0 +1,11 @@
+- name: test
+  type: vmess
+  server: www.zhijinyy.com
+  port: 443
+  uuid: b831381d-6324-4d53-ad4f-8cda48b3081
+  alterId: 64
+  cipher: auto
+  tls: true
+  network: ws
+  ws-path: /ray
+  Host: www.zhijinyy.com
